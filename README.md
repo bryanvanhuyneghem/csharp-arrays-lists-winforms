@@ -1,2 +1,2 @@
 # csharp-arrays-lists-winforms
- Arrays, Lists in C# with Windows Forms
+ Introductory exercises with relation to arrays, Lists in C# with Windows Forms
